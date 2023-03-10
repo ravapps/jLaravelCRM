@@ -1,0 +1,22 @@
+.dragula_tasks{
+    min-height: 600px;
+}
+.dragula_tasks .alert{
+    cursor: move;
+}
+.max_height_600{
+    max-height: 600px;
+}
+.kanban_section{
+    height: 100%;
+    min-height: 100%;
+    overflow-x: auto;
+    max-width: 100%;
+}
+.kanban_section .kanban_card{
+    width: 300px;
+    float: left;
+}
+.kanban_card .panel-heading h4{
+    margin: 0;
+}

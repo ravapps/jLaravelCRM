@@ -1,0 +1,35 @@
+<?php
+
+return [
+
+    "customers" => "Client",
+    "new" => "New Customer Contact",
+    "edit" => "Edit Customer Contact",
+    "delete" => "Delete Customer Contact",
+    "details" => "View Customer Contact",
+    "full_name" => "Full name",
+    "email" => "Email",
+    "register" => "Register date",
+    "first_name" => "First Name",
+    "last_name" => "Last Name",
+    "address" => "Address / Site Location",
+    "website" => "Website (full address with http(s)://)",
+    "job_position" => "Job Position / Department",
+    "phone" => "Phone",
+    "mobile" => "Mobile",
+    "fax" => "Fax",
+    "title" => "Title",
+    "customer_avatar" => "Profile Picture",
+    "company" => "Customer",
+    "sitelocation" => "Site Location",
+    "sales_team_id" => "Sales team",
+    "status" => "Customer Main Contact Person",
+    "password" => "Password",
+    'password_confirmation' => "Password confirmation",
+    'creaion_date'=>'creation date',
+    'actions'=>'actions',
+    'agent'=>'Customer Contact',
+    'ismaincontact'=>'Main Contact',
+    'createsite' => 'Create New Site Location',
+    'create_agent'=>'Create Customer Contact'
+];
